@@ -1,1 +1,1 @@
-my first project
+my first project (rock, paper, scissor)
